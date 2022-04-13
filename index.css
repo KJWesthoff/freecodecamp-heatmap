@@ -1,0 +1,19 @@
+.chart {
+    border: solid 2px;
+}
+
+.tick {
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#tooltip {
+    position: absolute;
+    z-index: 10;
+    visibility: hidden;
+    background: #000;
+    color: pink;
+    padding: 5px;
+    border-radius: 5px;
+}
